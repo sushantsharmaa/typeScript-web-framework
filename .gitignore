@@ -1,0 +1,5 @@
+# Ignore Parcel cache directory
+.parcel-cache/
+
+# Ignore distribution directory
+dist/
