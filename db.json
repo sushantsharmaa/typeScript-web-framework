@@ -24,6 +24,16 @@
       "name": "Zayn",
       "age": 30,
       "id": 5
+    },
+    {
+      "name": "Rahul",
+      "age": 99,
+      "id": 6
+    },
+    {
+      "name": "Drake",
+      "age": 72,
+      "id": 7
     }
   ]
 }

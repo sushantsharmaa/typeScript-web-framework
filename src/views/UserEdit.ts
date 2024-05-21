@@ -3,7 +3,7 @@ import { UserForm } from './UserForm';
 import { UserShow } from './UserShow';
 import { User, UserProps } from '../models/User';
 
-export class USerEdit extends View<User, UserProps> {
+export class UserEdit extends View<User, UserProps> {
   regionsMap(): { [key: string]: string } {
     return {
       userShow: '.user-show',
